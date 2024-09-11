@@ -10,10 +10,11 @@
 
 
 
+<!--
 ## Interactive feedback
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
-
+-->
 
 
 
