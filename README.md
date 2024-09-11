@@ -1,4 +1,4 @@
-# 2024-Fall (semeter 113-1)
+# 2024-Fall (semester 113-1)
 
 
 ## Final project timeline
