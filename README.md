@@ -6,7 +6,7 @@
 - Pick up your project topic by `October 17th` (rescheduled from October 3rd due to class cancellation on the Typhoon day).
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
 - Proposal presentation on `October 31st` (rescheduled from October 24th).
-- Final project report on `Dec. 19th`
+- Final project report due on `December 19th`.
 
 
 
