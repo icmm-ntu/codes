@@ -3,14 +3,16 @@
 
 ## Final project timeline
 
-- Pick up your project topic by `October 17th` (rescheduled from October 3rd due to class cancellation on the Typhoon day).
+- Pick up your project topic by `October 2nd` 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
-- Proposal presentation on `October 31st` (rescheduled from October 24th).
-- Final project report due on `December 19th`.
+- Proposal presentation on `October 23rd`
+- Final project report due on `December 18th`.
 
 
 
 <!--
+(rescheduled from October 3rd due to class cancellation on the Typhoon day).
+ (rescheduled from October 24th).
 ## Interactive feedback
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
