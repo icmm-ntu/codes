@@ -8,7 +8,9 @@
 - Proposal presentation on `October 23rd`
 - Final project report due on `December 18th`.
 
-## [Latex template](https://www.overleaf.com/project/5fb4c4325b0faa866d7218ed)  
+## Latex template [link](https://www.overleaf.com/project/5fb4c4325b0faa866d7218ed)  
+
+
 
 <!--
 (rescheduled from October 3rd due to class cancellation on the Typhoon day).
