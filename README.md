@@ -6,6 +6,11 @@
 - Pick up your project topic by `October 2nd` 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
 - Proposal presentation on `October 23rd`
+
+
+<img width="1645" height="352" alt="image" src="https://github.com/user-attachments/assets/c6a1a479-076e-47d9-a2cd-3238070dae09" />
+
+
 - Final project report due on `December 18th`.
 
 ## Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)  
