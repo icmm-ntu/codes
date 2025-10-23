@@ -24,8 +24,17 @@
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
 -->
+```python
+import random
+group_1 = ['A','B','C','D','E','F','K']
+group_2 = ['G','H','I','J','L']
+#print (groups)
+random.shuffle(group_1)
+print (group_1)
 
-
+random.shuffle(group_2)
+print (group_2)
+```
 
 
 
