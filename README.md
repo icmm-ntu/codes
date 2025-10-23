@@ -6,6 +6,7 @@
 - Pick up your project topic by `October 2nd` 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
 - Proposal presentation on `October 23rd`
+  - Determine the order of presentations.
   - Q & A time:
     * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
     * When you ask questions, please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
