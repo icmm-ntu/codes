@@ -6,10 +6,9 @@
 - Pick up your project topic by `October 2nd` 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
 - Proposal presentation on `October 23rd`
-
-
-<img width="1645" height="352" alt="image" src="https://github.com/user-attachments/assets/c6a1a479-076e-47d9-a2cd-3238070dae09" />
-
+  - Q & A time:
+    * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
+    * When you ask questions, please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
 
 - Final project report due on `December 18th`.
 
