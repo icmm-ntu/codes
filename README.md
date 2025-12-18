@@ -35,8 +35,15 @@ print (group_1)
 random.shuffle(group_2)
 print (group_2)
 ```
-
-
+# Determine the first presenting group
+```python
+import string
+import random
+list = string.ascii_uppercase[:12]
+print(list)
+First_Group = random.choice(list)
+print (First_Group)
+```
 
 <!-- - In class of Sept. 29th, please fill out  [`Final Project Team Roster`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)  -->
 
