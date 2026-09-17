@@ -1,20 +1,21 @@
-# 2025-Fall (semester 114-1)
+# 2026-Fall (semester 115-1)
 
 
 ## Final project timeline
 
-- Pick up your project topic by `October 2nd` 
-  -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
-- Proposal presentation on `October 23rd`
+- Pick up your project topic by `October 8th`
+  <!--
+  -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
+  -->
+- Proposal presentation on `October 29th`
   - Determine the order of presentations.
   - Q & A time:
     * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
     * When you ask questions, please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
 
-- Final project report due on `December 18th`.
+- Final project report due on `December 24th`.
 
 ## Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)  
-
 
 
 <!--
