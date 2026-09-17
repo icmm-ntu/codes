@@ -4,27 +4,30 @@
 ## Final project timeline
 
 - Pick up your project topic by `October 8th`
+- Proposal presentation on `October 29th`
+- Final project report due on `December 24th`.
   <!--
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
-  -->
-- Proposal presentation on `October 29th`
+
+
+
   - Determine the order of presentations.
   - Q & A time:
     * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
     * When you ask questions, please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
+  -->
 
-- Final project report due on `December 24th`.
-
+<!--
 ## Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)  
 
 
-<!--
+
 (rescheduled from October 3rd due to class cancellation on the Typhoon day).
  (rescheduled from October 24th).
 ## Interactive feedback
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
--->
+
 ```python
 import random
 group_1 = ['A','B','C','D','E','F','K']
@@ -45,6 +48,7 @@ print(list)
 First_Group = random.choice(list)
 print (First_Group)
 ```
+-->
 
 <!-- - In class of Sept. 29th, please fill out  [`Final Project Team Roster`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)  -->
 
