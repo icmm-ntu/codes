@@ -6,9 +6,9 @@
 - Pick up your project topic by `October 8th`
 - Proposal presentation on `October 29th`
 - Final project report due on `December 24th`.
-  <!--
-  -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
 
+  -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
+  <!--
 
 
   - Determine the order of presentations.
