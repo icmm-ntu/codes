@@ -8,6 +8,8 @@
 - Final project report due on `December 24th`.
 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
+  - Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)
+  -   
   <!--
 
 
@@ -18,7 +20,7 @@
   -->
 
 <!--
-## Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)  
+
 
 
 
