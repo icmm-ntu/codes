@@ -29,10 +29,19 @@
 
 ```python
 import random
-group_1 = ['A','B','C','D','E','F','K']
+
+group = ['A','B','C','D','E','F','G','H','I','J']
+
+print(group)
+
+selected = random.choice(group)
+
+print("Start with Team", selected)
+
+#====
 group_2 = ['G','H','I','J','L']
 #print (groups)
-#selected = random.choice(group_1)
+#
 random.shuffle(group_1)
 print (group_1)
 
