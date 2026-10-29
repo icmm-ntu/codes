@@ -9,15 +9,12 @@
 
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
   - Latex template [link](https://www.overleaf.com/read/cytvvdfvpdrg#0a6321)
-  -   
-  <!--
-
-
-  - Determine the order of presentations.
-  - Q & A time:
-    * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
-    * When you ask questions, please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
-  -->
+  - 10/29 (proposal presentation)  
+    - Determine the order of presentations.
+    - Q & A time:
+      * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
+      * If you ask question(s), please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
+ 
 
 <!--
 
@@ -35,6 +32,7 @@ import random
 group_1 = ['A','B','C','D','E','F','K']
 group_2 = ['G','H','I','J','L']
 #print (groups)
+#selected = random.choice(group_1)
 random.shuffle(group_1)
 print (group_1)
 
