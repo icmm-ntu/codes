@@ -14,8 +14,17 @@
     - Q & A time:
       * During the presentation, every student must either ask at least one question or write a one-page summary of one presentation.
       * If you ask question(s), please fill in the columns with: (i) your name, (ii) your question, and (iii) the presenting team.
- 
+""" 
+import random
 
+group = ['A','B','C','D','E','F','G','H','I','J']
+
+print(group)
+
+selected = random.choice(group)
+
+print("Start with Team", selected)
+"""
 <!--
 
 
